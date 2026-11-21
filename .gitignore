@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+mlflow.db
+.DS_Store
+.venv/
+__pycache__/
+.env
+.dvc/config.local
+data/raw_dataset.csv

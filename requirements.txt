@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mlflow==3.18.0
+scikit-learn
+skops
+numpy
